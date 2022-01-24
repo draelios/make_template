@@ -56,6 +56,11 @@ lectures/
 *.su
 *.idb
 *.pdb
+#Preprocessed files
+*.i
+*.s
+*.asm
+
 
 ################################
 ########### VS CODE ############
