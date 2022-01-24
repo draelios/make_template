@@ -9,4 +9,5 @@ private:
 public:
     my_lib(/* args */);
     ~my_lib();
+    void print();
 };

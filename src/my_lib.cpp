@@ -8,3 +8,8 @@ my_lib::my_lib(/* args */)
 my_lib::~my_lib()
 {
 }
+
+void my_lib::print()
+{
+    std::cout << "Wow!";
+}
